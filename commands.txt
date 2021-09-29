@@ -1,0 +1,11 @@
+1- add repository on github
+2- add new folder with name of repository
+3- open the folder on vscode
+4- put your files
+5- git init // create repository
+6- git add . // add files for tracking
+7- git commit -m "my first commit" // commit changes to repository
+8- go to git hub and copy the URL of the repository
+9- git remote add `origin` `URL` // connect with remote repository and name the connection origin
+10- git branch -M main // rename MASTER branch to MAIN .. Optional
+11- git push -u `origin` `main` // push branch information from local repo to remote repo using origin connection
